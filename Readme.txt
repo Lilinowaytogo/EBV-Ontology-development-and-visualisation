@@ -1,4 +1,4 @@
-The project is due for completion in 2021。
+The project is due for completion in 2021
 It includes the pulling of the ontology structure of the example object and the creation of the ontology with Protege (Owl-Datei), the Protege software needs to be downloaded in advance if the user wants to preview the device.
 The main content is the visualisation of the ontology, i.e. the structure of the target object, mainly using Qt and the language Python.
 The result of the project is that the user can visualise and use the structure of the target object.
